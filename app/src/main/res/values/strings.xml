@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenCV Integration</string>
+    <string name="camera">Camera Test Act</string>
+    <string name="img_argb">ARGB Test Act</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_binarization">BinarizationActivity</string>
+</resources>
